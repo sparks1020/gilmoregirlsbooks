@@ -5,5 +5,7 @@
 </head>
 <body>
 <h1>Find some book suggestions</h1>
-<button onclick="bookSuggestions">Start Here</button>
+<form method="get" action="/bookSuggestions.php">
+    <button type="submit">Continue</button>
+</form>
 </body>
