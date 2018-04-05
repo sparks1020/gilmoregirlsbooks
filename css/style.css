@@ -1,5 +1,15 @@
 .btn-primary {
     margin-bottom: 5px;
-    width: 40%;
+    width: 100%;
     margin-top: 10px;
+}
+
+.home-row {
+    top: 100px;
+    position: relative;
+}
+
+header {
+    max-height: 200px;
+    margin-bottom: 100px;
 }
